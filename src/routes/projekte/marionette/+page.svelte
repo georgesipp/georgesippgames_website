@@ -1,12 +1,3 @@
-<script>
-	//import video1 from "https://iframe.mediadelivery.net/embed/305120/f77a703d-2a2a-4d82-8227-47cade3f4230?autoplay=true&loop=true&muted=true&preload=true&responsive=true" ;
-	//import video2 from "https://iframe.mediadelivery.net/embed/305120/8827aa88-c915-42c8-a76a-43b2edc19016?autoplay=true&loop=true&muted=true&preload=true&responsive=true";
-	//import video3 from '$lib/components/cloudfactory/cloudfactory_video_3.mp4';
-	//import video4 from '$lib/components/cloudfactory/cloudfactory_video_4.mp4';
-
-	//import trailer from "https://iframe.mediadelivery.net/embed/305120/c1b24796-698f-46ca-a7ce-458bb4d18d90?autoplay=true&loop=true&muted=true&preload=true&responsive=true";
-
-</script> 
 
 
 <div class="grid h-full lg:grid-cols-2 ~xs:~gap-2/8 rounded-lg ~xs:~p-2/12 ">
@@ -52,7 +43,7 @@
 	<img class="object-contain max-auto  rounded-lg" alt="Marionette 4" src="https://websitebilder.b-cdn.net/website%20bilder/inti_setup_grafik.jpg" />
 
 
-<!-- 	
+	<!-- 	
 	<div style="position:relative">
 		<iframe title="video2" src={video2} class="object-contain max-auto rounded-lg col-span-2 lg:col-span-1"
 		loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" 
