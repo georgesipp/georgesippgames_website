@@ -1,4 +1,6 @@
 
+
+<!--
 <div class="grid h-full lg:grid-cols-2 ~xs:~gap-2/8 rounded-lg ~xs:~p-2/12 z-[-10]">
 
 	<div style="position:relative;padding-top:56.25%; height:0;width:100%;" class="rounded-lg col-span-2 justify-end self-end">
@@ -8,13 +10,6 @@
 	</div>
 
 	<img class="object-contain max-auto rounded-lg" alt="Gewinne! 3" src="https://websitebilder.b-cdn.net/website%20bilder/Gewinne!_3.jpg" />
-
-	<!-- <video class="w-full rounded-lg col-span-1 justify-end self-end" autoplay muted controls>
-		<source src={video1} type="video/mp4" />
-		Your browser does not support the video tag.
-	</video> -->
-
-
 		
 		<div class="h-full bg-accent rounded-lg ~xs:~px-2/4 drop-shadow-2xl ">
 			
@@ -61,3 +56,4 @@
 	<img class="object-contain max-auto rounded-lg " alt="Gewinne! 2" src="https://websitebilder.b-cdn.net/website%20bilder/Gewinne!_2.jpg" />
 	
 </div>
+-->

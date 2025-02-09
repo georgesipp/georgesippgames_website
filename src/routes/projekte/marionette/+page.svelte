@@ -1,5 +1,5 @@
 
-
+<!--
 <div class="grid h-full lg:grid-cols-2 ~xs:~gap-2/8 rounded-lg ~xs:~p-2/12 ">
 
 	
@@ -42,26 +42,6 @@
 
 	<img class="object-contain max-auto  rounded-lg" alt="Marionette 4" src="https://websitebilder.b-cdn.net/website%20bilder/inti_setup_grafik.jpg" />
 
-
-	<!-- 	
-	<div style="position:relative">
-		<iframe title="video2" src={video2} class="object-contain max-auto rounded-lg col-span-2 lg:col-span-1"
-		loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" 
-		allowfullscreen="true"></iframe>
-	</div>
-
-	
-	
-	<video class="object-contain max-auto rounded-lg col-span-2 lg:col-span-1" autoplay muted loop>
-		<source src={video2} type="video/mp4" />
-		Your browser does not support the video tag.
-	</video>
-	<video class="object-contain max-auto rounded-lg col-span-2 lg:col-span-1" autoplay muted loop>
-		<source src={video3} type="video/mp4" />
-		Your browser does not support the video tag.
-	</video>
-	<video class="object-contain max-auto rounded-lg col-span-2 lg:col-span-1" autoplay muted loop>
-		<source src={video4} type="video/mp4" />
-		Your browser does not support the video tag.
-	</video> -->
+ 
 </div>
+-->
