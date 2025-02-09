@@ -4,6 +4,34 @@
 
 <div class="grid  grid-cols-1 lg:grid-cols-3 ~xs:~gap-2/8 ~xs:~p-2/12">
 
+	<a href="{base}/projekte/gewinne!" >
+		<div class="bg-accent rounded-lg pt-2 group">
+			
+			<h1 class="px-2  m-4 ~xs:~text-xs/3xl">
+				Gewinne! Gewinne! Gewinne!
+			</h1>
+			
+			<img
+					class="object-contain max-auto rounded-b-lg lg:saturate-0 group-hover:saturate-100 ease-in-out duration-500 aspect-video h-9/12"
+					src="https://websitebilder.b-cdn.net/website%20bilder/Gewinne!_2_thumbnail.jpg"
+					alt="Gewinne!"/>
+				
+		</div></a>
+
+	<a href="{base}/projekte/marionette" >
+		<div class="bg-accent rounded-lg pt-2 group">
+			
+			<h1 class="px-2  m-4 ~xs:~text-xs/3xl">
+				Interface Marionette
+			</h1>
+			
+			<img
+					class="object-contain max-auto rounded-b-lg lg:saturate-0 group-hover:saturate-100 ease-in-out duration-500 aspect-video h-9/12"
+					src="https://websitebilder.b-cdn.net/website%20bilder/inti_unity.png"
+					alt="Marionette"/>
+				
+		</div></a>
+
 	<a href="{base}/projekte/playingemissions" >
 	<div class="bg-accent rounded-lg pt-2 group">
 		
