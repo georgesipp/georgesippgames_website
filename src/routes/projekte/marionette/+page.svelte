@@ -1,5 +1,5 @@
 
-<!--
+
 <div class="grid h-full lg:grid-cols-2 ~xs:~gap-2/8 rounded-lg ~xs:~p-2/12 ">
 
 	
@@ -44,4 +44,3 @@
 
  
 </div>
--->
