@@ -8,8 +8,8 @@
 				<p class="mb-12">
 					Jonas Olbrich (*1998, Recklinghausen) beschäftigt sich in seinen Arbeiten mit der
 					Performativität des Spielerischen. Er studierte Theaterwissenschaft und Kunstgeschichte an
-					der Ruhr Universität Bochum. Derzeit schließt er sein Studium mit dem Master Spiel &&
-					Objekt an der HfS Ernst Busch in Berlin ab. Jonas verknüpft Spielmechaniken, Elektronik
+					der Ruhr Universität Bochum. 2024 hat er sein Studium mit dem Master Spiel &&
+					Objekt an der HfS Ernst Busch in Berlin abgeschlossen. Jonas verknüpft Spielmechaniken, Elektronik
 					und Game Engines, um den performativen Moment digitaler und realer Spielwelten zu
 					untersuchen.
 				</p>
@@ -17,10 +17,8 @@
 					Jonas Olbrich (*1998, Recklinghausen) is a theatre maker, researching the performativity
 					of play and game. In his work he combines game mechanics, electronics and game engines to
 					investigate the performative moment of digital and actual game worlds. Jonas studied
-					theatre studies and art history at the Ruhr University Bochum. He is currently completing
-					his Master’s degree in Spiel && Objekt at the HfS Ernst Busch in Berlin. Recent activities
-					include designing a game in theatre space for the “Das digitale Foyer” project at the FFT
-					in Düsseldorf.
+					theatre studies and art history at the Ruhr University Bochum. In 2024 he completed
+					his Master’s degree in Spiel && Objekt at the HfS Ernst Busch in Berlin.
 				</p>
                 <p class="mb-12">
                     Contact: kontakt@jonasolbrich.de
