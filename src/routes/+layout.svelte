@@ -23,7 +23,7 @@
 
         <div tabindex="0" role="button" class="btn lg:btn-lg btn-ghost lg:text-4xl font-medium">Projekte <!--<a href={base +"/projekte"}></a>--></div>
 
-        <ul class="dropdown-content z-[1] menu p-2 shadow bg-neutral rounded-box w-40 lg:w-80 lg:text-2xl overflow-visible">
+        <ul class="dropdown-content z-[1] menu p-2 shadow bg-neutral rounded-box w-52 lg:w-80 lg:text-2xl overflow-visible">
           <li><a href="{base}/projekte/gewinne!" >Gewinne! Gewinne! Gewinne!</a></li>
           <li><a href="{base}/projekte/marionette" >Interface Marionette</a></li>
           <li><a href="{base}/projekte/playingemissions" >Playing Emissions</a></li>

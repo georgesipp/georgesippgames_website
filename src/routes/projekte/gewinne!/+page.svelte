@@ -3,15 +3,16 @@
 
 <div class="grid h-full lg:grid-cols-2 ~xs:~gap-2/8 rounded-lg ~xs:~p-2/12 z-[-10]">
 
-	<div style="position:relative;padding-top:56.25%; height:0;width:100%;" class="rounded-lg col-span-2 justify-end self-end">
+	<div style="position:relative;padding-top:56.25%; height:0;width:100%;" class="rounded-lg lg:col-span-2 justify-end self-end">
 		<iframe title="trailer" class="rounded-lg" src="https://iframe.mediadelivery.net/embed/305120/8fcb8fcf-e9bd-4ce4-9825-dfd048029810?autoplay=true&loop=true&muted=true&preload=true&responsive=true" 
 		loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" 
 		allowfullscreen="false"></iframe>
 	</div>
 
+
 	<img class="object-contain max-auto rounded-lg" alt="Gewinne! 3" src="https://websitebilder.b-cdn.net/website%20bilder/Gewinne!_3.jpg" />
 		
-		<div class="h-full bg-accent rounded-lg ~xs:~px-2/4 drop-shadow-2xl ">
+	<div class="h-full bg-accent rounded-lg ~xs:~px-2/4 drop-shadow-2xl ">
 			
 			<h1 class="content-center px-8 mt-8 text-4xl font-bold">Gewinne! Gewinne! Gewinne!</h1>
 			
@@ -49,8 +50,7 @@
 				</p>
 			</div>
 			
-		</div>
-
+	</div>
 
 	<img class="object-contain max-auto rounded-lg" alt="Gewinne! 1" src="https://websitebilder.b-cdn.net/website%20bilder/Gewinne!_1.jpg" />
 	<img class="object-contain max-auto rounded-lg " alt="Gewinne! 2" src="https://websitebilder.b-cdn.net/website%20bilder/Gewinne!_2.jpg" />
