@@ -18,6 +18,20 @@
 				
 		</div></a>
 
+	<a href="{base}/projekte/lovestorm" >
+		<div class="bg-accent rounded-lg pt-2 group">
+			
+			<h1 class="px-2  m-4 ~xs:~text-xs/3xl">
+				LOVESTORM
+			</h1>
+			
+			<img
+					class="object-contain max-auto rounded-b-lg lg:saturate-0 group-hover:saturate-100 ease-in-out duration-500 aspect-video h-9/12"
+					src="https://websitebilder.b-cdn.net/website%20bilder/lovestorm_2.png"
+					alt="LOVESTORM"/>
+				
+		</div></a>
+
 	<a href="{base}/projekte/marionette" >
 		<div class="bg-accent rounded-lg pt-2 group">
 			

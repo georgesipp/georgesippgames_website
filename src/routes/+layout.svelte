@@ -25,6 +25,7 @@
 
         <ul class="dropdown-content z-[1] menu p-2 shadow bg-neutral rounded-box w-52 lg:w-80 lg:text-2xl overflow-visible">
           <li><a href="{base}/projekte/gewinne!" >Gewinne! Gewinne! Gewinne!</a></li>
+          <li><a href="{base}/projekte/lovestorm" >LOVESTORM</a></li>
           <li><a href="{base}/projekte/marionette" >Interface Marionette</a></li>
           <li><a href="{base}/projekte/playingemissions" >Playing Emissions</a></li>
           <li><a href={base +"/projekte/cloudfactory"}>Cloudfactory</a></li>
