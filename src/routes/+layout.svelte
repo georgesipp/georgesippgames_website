@@ -14,6 +14,6 @@
     <slot />
   </main>
 
-  <footer class="footer p-10 bg-neutral text-neutral-content"></footer>
+  <footer class="footer p-10 --accent-secondary text-neutral-content"></footer>
 </div>
  

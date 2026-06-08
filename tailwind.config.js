@@ -23,7 +23,7 @@ export default {
       xxl: '96rem'
     },
   },
-
+/*
   plugins: [require('@tailwindcss/typography'), daisyui, fluid],
 
   daisyui: {
@@ -41,4 +41,5 @@ export default {
       },
     ],
   },
+  */
 }
