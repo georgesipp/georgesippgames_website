@@ -17,7 +17,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Quicksand', defaultTheme.fontFamily.sans],
+        sans: ['Crimson Text', defaultTheme.fontFamily.sans],
       },
     },
     screens: {
@@ -37,11 +37,11 @@ export default {
     themes: [
       {
         mytheme: {
-          "primary": "#DFA367",
-          "secondary": "#14453D",
-          "accent": "#475657",
-          "neutral": "#DCD7D0",
-          "base-100": "#8A8A8A",
+          "primary": "#9BC1BC",
+          "secondary": "#7A306C",
+          "accent": "#2B50AA",
+          "neutral": "#CD9FCC",
+          "base-100": "#000000",
 
         },
       },

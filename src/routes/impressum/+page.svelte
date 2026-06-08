@@ -6,7 +6,7 @@
 	<div class="~xs:~px-2/4 mt-8 ~xs:~text-xs/xl ml-5 text-pretty mb-8">
 		<h1 class="mb-2 font-bold">Jonas Olbrich</h1>
 		<p class="mb-2">
-			Gartenstraße 1, 10115 Berlin Der Schutz Ihrer persönlichen Daten ist uns ein besonderes
+			Wiclefstr. 11, 10551 Berlin Der Schutz Ihrer persönlichen Daten ist uns ein besonderes
 			Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen
 			Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informieren wir Sie über
 			die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
@@ -14,8 +14,8 @@
 		<h1 class="mb-2 font-bold">Verantwortlicher</h1>
 		<p class="mb-2">
 			Verantwortlicher für die Datenverarbeitung ist die Person Jonas Olbrich mit Sitz in
-			Gartenstraße 1, 10115 Berlin. Sie erreichen per Mail unter kontakt@jonasolbrich.de oder
-			postalisch unter der Anschrift Gartenstraße 1, 10115 Berlin.
+			Wiclefstr. 11, 10551 Berlin. Sie erreichen per Mail unter kontakt@jonasolbrich.de oder
+			postalisch unter der Anschrift Wiclefstr. 11, 10551 Berlin.
 		</p>
 		<h1 class="mb-2 font-bold">Datensicherheit</h1>
 		<p class="mb-2">
