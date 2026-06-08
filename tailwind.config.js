@@ -1,12 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 
 import fluid, { extract } from 'fluid-tailwind'
-
-const daisyui = require('daisyui')
-const defaultTheme = require('tailwindcss/defaultTheme')
-const fluid = require('fluid-tailwind')
-
-
+import daisyui from 'daisyui'
+import defaultTheme from 'tailwindcss/defaultTheme'
 
 export default {
   content: {
@@ -17,7 +13,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Crimson Text', defaultTheme.fontFamily.sans],
+        sans: ['Crimson Text', ...defaultTheme.fontFamily.sans],
       },
     },
     screens: {
@@ -26,26 +22,23 @@ export default {
       xl: '80rem',
       xxl: '96rem'
     },
-    
-
   },
-  plugins: [require('@tailwindcss/typography'),daisyui, fluid],
 
+  plugins: [require('@tailwindcss/typography'), daisyui, fluid],
 
-  
   daisyui: {
     themes: [
       {
         mytheme: {
-          "primary": "#9BC1BC",
+          "primary":   "#9BC1BC",
           "secondary": "#7A306C",
-          "accent": "#2B50AA",
-          "neutral": "#CD9FCC",
-          "base-100": "#000000",
-
+          "accent":    "#2B50AA",
+          "neutral":   "#CD9FCC",
+          "base-100":  "#000000",
+          "base-200":  "#1a1a1a",
+          "base-300":  "#2a2a2a",
         },
       },
     ],
   },
-
 }
