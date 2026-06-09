@@ -60,9 +60,8 @@ nav a:hover {
 
 /* Main content */
 main {
-  padding: 0 4px;
-  margin-left: 4px;
-  margin-right: 4px;
+  padding: 12px;
+
   min-width: 700px;
   width: 100%;
 }
@@ -109,7 +108,7 @@ footer {
   box-shadow: 2px 2px 12px #CD9FCC;
 
   padding: 12px;
-  margin: 12px auto;
+
 
   border-radius: 18px;
 
@@ -267,8 +266,6 @@ footer {
   box-shadow: 2px 2px 12px #CD9FCC;
 
   padding: 12px;
-  margin-left: 12px;
-  margin-right: 12px;
 
   border-radius: 18px;
 
