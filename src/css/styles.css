@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: Georgia, serif;
+  font-family: "Crimson Text", serif;
   color: #2c2c2c;
   background-color: #fafafa;
   line-height: 1.7;
@@ -16,7 +16,10 @@ body {
 header {
   background-color: #CD9FCC;
   text-align: center;
-  padding: 15px 20px;
+  gap: 10px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  padding: 20px;  
 }
 
 /* Nav */
@@ -63,7 +66,8 @@ p {
 }
 
 a {
-  color: #9b5e9a;
+  color: #000000;
+  text-decoration: none;
 }
 
 a:hover {
@@ -78,4 +82,42 @@ footer {
   font-size: 0.85rem;
   color: #4a2a49;
   margin-top: 60px;
+}
+
+
+/*#Fonts*/
+.crimson-text-regular {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.crimson-text-semibold {
+  font-family: "Crimson Text", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.crimson-text-bold {
+  font-family: "Crimson Text", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.crimson-text-regular-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.crimson-text-semibold-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.crimson-text-bold-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 700;
+  font-style: italic;
 }
