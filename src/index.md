@@ -7,8 +7,6 @@ title: georgesippgames
 <h2 align-self-center>Giants</h2>
   <div class="game-layout">
     <div class="game-sidebar">
-      <img class="mySlides" src="https://websitebilder.b-cdn.net/giants/Verkn%C3%BCpfungssymbol.png">
-      </img>
       <img class="mySlides" src="https://websitebilder.b-cdn.net/giants/giants_screenshot%20(1).png">
       </img>
       <img class="mySlides" src="https://websitebilder.b-cdn.net/giants/giants_screenshot%20(2).png">
