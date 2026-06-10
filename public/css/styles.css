@@ -60,7 +60,7 @@ nav a:hover {
 
 /* Main content */
 main {
-  padding: 12px;
+  padding-bottom: 12px;
 
   min-width: 700px;
   width: 100%;
@@ -109,12 +109,11 @@ footer {
 
   padding: 12px;
 
-
-  border-radius: 18px;
-
   text-align: center;
 
   box-sizing: border-box;
+
+  align-content: center;
 }
 
 /* Two-column layout */ 
@@ -129,7 +128,7 @@ footer {
 }
 
 .game-sidebar {
-  border-radius: 12px;
+  border-radius: 4px;
   padding: 4px;
 
   display: flex;
@@ -142,14 +141,15 @@ footer {
 /* Right column */
 .game-main {
   min-width: 646px;
-  border-radius: 12px;
-  padding: 4px;
+  border-radius: 4px;
+  padding-left: 12px;
+  padding-right: 12px;
   height: 100%;
   display:block;
 
 }
 .game-sidebar img {
-  max-height: 300px;
+
   width: 100%;
   border-radius: 8px;
 
@@ -162,7 +162,7 @@ footer {
   max-height: 200px;
   width: 100%;
   overflow: hidden;
-  border-radius: 12px;
+  border-radius: 4px;
 
 }
 
@@ -178,6 +178,15 @@ footer {
 }
 .mySlides {
   display:none;
+}
+
+.custom-video {
+  border-radius: 4px;
+    min-height: 315px;
+  min-width: 560px;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 560/315;
 }
 
 
@@ -221,25 +230,21 @@ footer {
 @media (max-width: 992px) {
     .game-layout {
     display: grid;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 2;
     grid-template-columns: 1fr;
     gap: 12px;
-    align-items: stretch;
+    place-items: center;
   }
   .game-sidebar {
-  border-radius: 12px;
-  padding: 4px;
-
-  display: flex;
-  flex-direction: column;
+  border-radius: 4px;
+  min-height: 300px;
+  width: auto;
   align-items: center;
-  object-fit: fill;
-  /* Remove height: 100% — the grid stretch already handles this */
 }
   .game-sidebar img {
   max-height: 300px;
   width: auto;
-  border-radius: 8px;
+  border-radius: 4px;
 
   min-height: 0;        /* overrides the implicit min-height: auto on flex children */
   object-fit: contain;
@@ -249,12 +254,11 @@ footer {
 
 
 
-@media (min-width: 1025px) {
+@media (min-width: 992px) {
     .game-layout {
     display: grid;
-    grid-template-columns: 1fr 3fr;
+    grid-template-columns: 2fr 3fr;
     gap: 12px;
-    align-items: stretch;
   }
   .game-container {
   width: 100%;
@@ -267,7 +271,7 @@ footer {
 
   padding: 12px;
 
-  border-radius: 18px;
+  border-radius: 0xp;
 
   text-align: center;
 

@@ -4,7 +4,9 @@ title: georgesippgames
 ---
 
 <div class="game-container">
-<h2 align-self-center>Giants</h2>
+  <div style="display: grid;
+  grid-template-rows: 2;
+  place-items: center; gap: 10px;">
   <div class="game-layout">
     <div class="game-sidebar">
       <img class="mySlides" src="https://websitebilder.b-cdn.net/giants/giants_screenshot%20(1).png">
@@ -28,14 +30,21 @@ title: georgesippgames
     </div>
     <div class="game-main">
 
+  
+  <iframe src="https://www.youtube.com/embed/ejgy31yyM40?si=8I552oTDC5dmesHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="custom-video"></iframe>
+  
+
+
+  </div>
+  
+  </div>
   <div class="steam-widget-container">
   <iframe
     src="https://store.steampowered.com/widget/4476360/"
     frameborder="0"
     allowtransparency="true"
-    class="steam-widget">
+    class="steam-widget"
+    style="min-width: 646px;">
   </iframe>
-</div>
-
   </div>
 </div>
