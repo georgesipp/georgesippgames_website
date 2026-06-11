@@ -2,11 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=700, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale:1">
     <title> georgesippgames</title>
     <link rel="stylesheet" href="/css/styles.css">
 
     <script src="/js/slideshow.js" defer></script>
+    
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -21,7 +22,7 @@
     
         <a href="/" >
         <img src="https://websitebilder.b-cdn.net/giants/georgesippgames_splashscreen4_sm.png"
-         alt="GeorgeSippGames Logo" height="100" width=auto>
+         alt="GeorgeSippGames Logo" height="50" width=auto>
             </img>
         </a>
 
@@ -54,18 +55,23 @@
       </img>
     </div>
     <div class="game-main">
-  <iframe src="https://www.youtube.com/embed/ejgy31yyM40?si=8I552oTDC5dmesHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="custom-video"></iframe>
+      <iframe src="https://www.youtube.com/embed/ejgy31yyM40?si=8I552oTDC5dmesHP"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+  class="custom-video">a
+</iframe>
   </div>
   </div>
-  <div class="steam-widget-container">
-  <iframe
-    src="https://store.steampowered.com/widget/4476360/"
-    frameborder="0"
-    allowtransparency="true"
-    class="steam-widget"
-    style="min-width: 646px;">
-  </iframe>
+  <div class="widget-wrapper">
+    <!-- Your Steam widget/iframe goes here -->
+    <iframe class="steam-widget" src="https://store.steampowered.com/widget/4476360/" 
+            frameborder="0" >
+    </iframe>
   </div>
+  <script src="/js/widget-scale.js"></script>
 </div>
 
     </main>
