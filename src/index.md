@@ -29,17 +29,17 @@ title: georgesippgames
       </img>
     </div>
     <div class="game-main">
-      <iframe src="https://www.youtube.com/embed/ejgy31yyM40?si=8I552oTDC5dmesHP"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen
-  class="custom-video">a
-</iframe>
-
-  </div>
-  
+      <div class="video-wrapper">
+        <iframe src="https://www.youtube.com/embed/ejgy31yyM40?si=8I552oTDC5dmesHP"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+          class="custom-video">
+        </iframe>
+      </div>
+    </div>
   </div>
   <div class="widget-wrapper">
     <!-- Your Steam widget/iframe goes here -->
