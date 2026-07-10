@@ -30,7 +30,7 @@ title: georgesippgames
     </div>
     <div class="game-main">
       <div class="video-wrapper">
-        <iframe src="https://www.youtube.com/watch?v=i67WwpFgpk0"
+        <iframe src="https://www.youtube.com/embed/i67WwpFgpk0?si=nBFV0xmWq62f56X6"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
